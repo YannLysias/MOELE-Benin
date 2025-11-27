@@ -136,10 +136,10 @@
 
                 @if ($member->sexe === 'Feminin')
                     <!-- Afficher une image spécifique pour les utilisateurs de sexe féminin -->
-                    <div class="title"> <img src="img/fille.jpg" alt="Image à gauche" class="photo"> Mouvement des Peuples Africains</div>
+                    <div class="title"> <img src="img/fille.jpg" alt="Image à gauche" class="photo"> MOELE-BENIN (ZOU)</div>
                 @else
                     <!-- Afficher une image par défaut ou un avatar -->
-                    <div class="title"> <img src="img/images.png" alt="Image à droit" class="photo"> Mouvement des Peuples Africains</div>
+                    <div class="title"> <img src="img/images.png" alt="Image à droit" class="photo"> MOELE-BENIN (ZOU)</div>
                 @endif
 
             <div class="line"></div>
@@ -155,7 +155,6 @@
             <p><strong>Sexe :</strong> {{ $member->sexe }}</p>
             <p><strong>Profession :</strong> {{ $member->profession }}</p>
             <p><strong>Téléphone :</strong> {{ $member->telephone }}</p>
-            <p><strong>Groupe sanguin :</strong> {{ $member->gsanguin }}</p>
             @if($member->titre)
                 <p><strong>Titre :</strong> {{ $member->titre->libelle }}</p>
             @endif
@@ -176,7 +175,7 @@
             <img src="img/drapeaux.png" alt="Drapeau" style="width: 40px; height: 40px;">
             <div class="title">RÉPUBLIQUE DU BÉNIN</div>
             <p>FRATERNITÉ * TRAVAIL * JUSTICE</p>
-            <p>Mouvement des Peuples Africains</p>
+            <p>MOELE-BENIN (ZOU)</p>
         </div>
 
         <div class="content">

@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" href="/assets/img/Logo MOELE.jpg">
 
-    <title>2025 MOELE-BENIN (ZOU) </title>
+    <title> MOELE-BENIN (ZOU) </title>
 
     <!-- Bootstrap -->
     <link href="/vendors/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">

@@ -141,7 +141,7 @@
 
       <div class="text-center">
         <div class="copyright">
-          &copy; 2024 Mouvement des Peuples Africains <strong></strong>
+          &copy; 2025 MOELE-BENIN (ZOU) <strong></strong>
         </div>
       </div>
     </div>
@@ -153,7 +153,7 @@
   <script>
     document.addEventListener('DOMContentLoaded', function() {
         var username = 'yannlysias'; // Remplacez YOUR_GEONAMES_USERNAME par votre nom d'utilisateur Geonames
-        var url = 'http://api.geonames.org/countryInfoJSON?username=' + username;
+        var url = 'https://api.geonames.org/countryInfoJSON?username=' + username;
 
         // Envoi de la requête à l'API Geonames pour récupérer les pays
         fetch(url)

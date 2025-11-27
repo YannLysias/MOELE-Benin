@@ -174,7 +174,7 @@
 
       <div class="text-center">
         <div class="copyright">
-          &copy; 2024 Mouvement des Peuples Africains  <strong></strong>
+          &copy; 2025 MOELE-BENIN (ZOU)  <strong></strong>
         </div>
       </div>
 

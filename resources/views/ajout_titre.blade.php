@@ -98,7 +98,7 @@
         <!-- footer content -->
         <footer>
             <div class="pull-right">
-                &copy; 2024 Mouvement des Peuples Africains
+                &copy; 2025 MOELE-BENIN (ZOU)
             </div>
             <div class="clearfix"></div>
         </footer>
